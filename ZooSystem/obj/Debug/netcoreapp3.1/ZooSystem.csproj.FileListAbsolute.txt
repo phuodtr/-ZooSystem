@@ -1,0 +1,13 @@
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\bin\Debug\netcoreapp3.1\ZooSystem.exe
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\bin\Debug\netcoreapp3.1\ZooSystem.deps.json
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\bin\Debug\netcoreapp3.1\ZooSystem.runtimeconfig.json
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\bin\Debug\netcoreapp3.1\ZooSystem.runtimeconfig.dev.json
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\bin\Debug\netcoreapp3.1\ZooSystem.dll
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\bin\Debug\netcoreapp3.1\ZooSystem.pdb
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\obj\Debug\netcoreapp3.1\ZooSystem.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\obj\Debug\netcoreapp3.1\ZooSystem.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\obj\Debug\netcoreapp3.1\ZooSystem.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\obj\Debug\netcoreapp3.1\ZooSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\obj\Debug\netcoreapp3.1\ZooSystem.dll
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\obj\Debug\netcoreapp3.1\ZooSystem.pdb
+C:\Users\DELL\Source\Repos\ZooSystem\ZooSystem\obj\Debug\netcoreapp3.1\ZooSystem.genruntimeconfig.cache
